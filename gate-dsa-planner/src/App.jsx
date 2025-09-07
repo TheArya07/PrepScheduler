@@ -12,6 +12,7 @@ export default function App() {
   const [syllabus, set_syllabus] = useState({})
 
   const auth = getAuth()
+  
   const db   = getDatabase()
 
   useEffect(() => {

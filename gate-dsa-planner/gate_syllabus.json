@@ -1,0 +1,290 @@
+{
+    "Gate_Syallbus":{
+        "Engineering Mathematics": {
+        "Discrete Mathematics": {
+            "topics": [
+            { "title": "Propositional and first order logic", "yt": "#" },
+            { "title": "Sets, relations, functions", "yt": "#" },
+            { "title": "Partial orders and lattices", "yt": "#" },
+            { "title": "Monoids", "yt": "#" },
+            { "title": "Groups", "yt": "#" },
+            { "title": "Graphs: connectivity, matching, colouring", "yt": "#" },
+            { "title": "Combinatorics: counting, recurrence relations, generating functions", "yt": "#" }
+            ]
+        },
+        "Linear Algebra": {
+            "topics": [
+            { "title": "Matrices", "yt": "#" },
+            { "title": "Determinants", "yt": "#" },
+            { "title": "System of linear equations", "yt": "#" },
+            { "title": "Eigenvalues and eigenvectors", "yt": "#" },
+            { "title": "LU decomposition", "yt": "#" }
+            ]
+        },
+        "Calculus": {
+            "topics": [
+            { "title": "Limits", "yt": "#" },
+            { "title": "Continuity and differentiability", "yt": "#" },
+            { "title": "Maxima and minima", "yt": "#" },
+            { "title": "Mean value theorem", "yt": "#" },
+            { "title": "Integration", "yt": "#" }
+            ]
+        },
+        "Probability and Statistics": {
+            "topics": [
+            { "title": "Random variables", "yt": "#" },
+            { "title": "Distributions: Uniform, normal, exponential, Poisson, binomial", "yt": "#" },
+            { "title": "Mean, median, mode and standard deviation", "yt": "#" },
+            { "title": "Conditional probability and Bayes theorem", "yt": "#" }
+            ]
+        }
+        },
+        "Digital Logic": {
+        "topics": [
+            { "title": "Boolean algebra", "yt": "#" },
+            { "title": "Combinational circuits", "yt": "#" },
+            { "title": "Sequential circuits", "yt": "#" },
+            { "title": "Minimization", "yt": "#" },
+            { "title": "Number representations", "yt": "#" },
+            { "title": "Computer arithmetic (fixed and floating point)", "yt": "#" }
+        ]
+        },
+        "Computer Organization and Architecture": {
+        "topics": [
+            { "title": "Machine instructions and addressing modes", "yt": "#" },
+            { "title": "ALU, data‐path and control unit", "yt": "#" },
+            { "title": "Instruction pipelining, pipeline hazards", "yt": "#" },
+            { "title": "Memory hierarchy: cache, main memory and secondary storage", "yt": "#" },
+            { "title": "I/O interface (interrupt and DMA mode)", "yt": "#" }
+        ]
+        },
+        "Programming and Data Structures": {
+        "topics": [
+            { "title": "Programming in C", "yt": "#" },
+            { "title": "Recursion", "yt": "#" },
+            { "title": "Arrays", "yt": "#" },
+            { "title": "Stacks", "yt": "#" },
+            { "title": "Queues", "yt": "#" },
+            { "title": "Linked lists", "yt": "#" },
+            { "title": "Trees", "yt": "#" },
+            { "title": "Binary search trees", "yt": "#" },
+            { "title": "Binary heaps", "yt": "#" },
+            { "title": "Graphs", "yt": "#" }
+        ]
+        },
+        "Algorithms": {
+        "topics": [
+            { "title": "Searching", "yt": "#" },
+            { "title": "Sorting", "yt": "#" },
+            { "title": "Hashing", "yt": "#" },
+            { "title": "Asymptotic time and space complexity", "yt": "#" },
+            { "title": "Greedy algorithms", "yt": "#" },
+            { "title": "Dynamic programming", "yt": "#" },
+            { "title": "Divide‐and‐conquer", "yt": "#" },
+            { "title": "Graph traversals", "yt": "#" },
+            { "title": "Minimum spanning trees", "yt": "#" },
+            { "title": "Shortest paths", "yt": "#" }
+        ]
+        },
+        "Theory of Computation": {
+        "topics": [
+            { "title": "Regular expressions and finite automata", "yt": "#" },
+            { "title": "Context-free grammars and push-down automata", "yt": "#" },
+            { "title": "Regular and context-free languages", "yt": "#" },
+            { "title": "Pumping lemma", "yt": "#" },
+            { "title": "Turing machines and undecidability", "yt": "#" }
+        ]
+        },
+        "Compiler Design": {
+        "topics": [
+            { "title": "Lexical analysis", "yt": "#" },
+            { "title": "Parsing", "yt": "#" },
+            { "title": "Syntax-directed translation", "yt": "#" },
+            { "title": "Runtime environments", "yt": "#" },
+            { "title": "Intermediate code generation", "yt": "#" },
+            { "title": "Local optimisation", "yt": "#" },
+            { "title": "Data flow analyses: constant propagation", "yt": "#" },
+            { "title": "Liveness analysis", "yt": "#" },
+            { "title": "Common subexpression elimination", "yt": "#" }
+        ]
+        },
+        "Operating System": {
+        "topics": [
+            { "title": "System calls", "yt": "#" },
+            { "title": "Processes", "yt": "#" },
+            { "title": "Threads", "yt": "#" },
+            { "title": "Inter‐process communication", "yt": "#" },
+            { "title": "Concurrency and synchronization", "yt": "#" },
+            { "title": "Deadlock", "yt": "#" },
+            { "title": "CPU and I/O scheduling", "yt": "#" },
+            { "title": "Memory management", "yt": "#" },
+            { "title": "Virtual memory", "yt": "#" },
+            { "title": "File systems", "yt": "#" }
+        ]
+        },
+        "Databases": {
+        "topics": [
+            { "title": "ER‐model", "yt": "#" },
+            { "title": "Relational model: relational algebra, tuple calculus, SQL", "yt": "#" },
+            { "title": "Integrity constraints", "yt": "#" },
+            { "title": "Normal forms", "yt": "#" },
+            { "title": "File organization", "yt": "#" },
+            { "title": "Indexing (e.g., B and B+ trees)", "yt": "#" },
+            { "title": "Transactions", "yt": "#" },
+            { "title": "Concurrency control", "yt": "#" }
+        ]
+        },
+        "Computer Networks": {
+        "topics": [
+            { "title": "Concept of layering: OSI and TCP/IP Protocol Stacks", "yt": "#" },
+            { "title": "Packet, circuit and virtual circuit switching", "yt": "#" },
+            { "title": "Data link layer: framing, error detection, MAC, Ethernet bridging", "yt": "#" },
+            { "title": "Routing protocols: shortest path, flooding, distance vector, link state", "yt": "#" },
+            { "title": "Fragmentation and IP addressing, IPv4, CIDR notation", "yt": "#" },
+            { "title": "IP support protocols: ARP, DHCP, ICMP", "yt": "#" },
+            { "title": "Network Address Translation (NAT)", "yt": "#" },
+            { "title": "Transport layer: flow control, congestion control, UDP, TCP, sockets", "yt": "#" },
+            { "title": "Application layer protocols: DNS, SMTP, HTTP, FTP, Email", "yt": "#" }
+        ]
+        }
+    },
+
+    "DSA_Syallbus":{
+        "Arrays": {
+        "topics": [
+            { "title": "Basics and Operations", "yt": "#" },
+            { "title": "Prefix Sum", "yt": "#" },
+            { "title": "Sliding Window", "yt": "#" },
+            { "title": "Two Pointer Technique", "yt": "#" },
+            { "title": "Kadane’s Algorithm", "yt": "#" }
+        ]
+        },
+        "Strings": {
+        "topics": [
+            { "title": "Basic Operations", "yt": "#" },
+            { "title": "Pattern Matching (Naive, KMP)", "yt": "#" },
+            { "title": "Z-Algorithm", "yt": "#" },
+            { "title": "Rabin-Karp", "yt": "#" },
+            { "title": "Manacher’s Algorithm", "yt": "#" }
+        ]
+        },
+        "Linked Lists": {
+        "topics": [
+            { "title": "Singly Linked List", "yt": "#" },
+            { "title": "Doubly Linked List", "yt": "#" },
+            { "title": "Cycle Detection (Floyd’s Algo)", "yt": "#" },
+            { "title": "Reverse Linked List", "yt": "#" },
+            { "title": "Merge Two Sorted Lists", "yt": "#" }
+        ]
+        },
+        "Stacks and Queues": {
+        "topics": [
+            { "title": "Stack Basics", "yt": "#" },
+            { "title": "Valid Parentheses", "yt": "#" },
+            { "title": "Next Greater Element", "yt": "#" },
+            { "title": "Queue Basics", "yt": "#" },
+            { "title": "Circular Queue", "yt": "#" },
+            { "title": "Deque", "yt": "#" }
+        ]
+        },
+        "Trees": {
+        "topics": [
+            { "title": "Binary Tree Basics", "yt": "#" },
+            { "title": "Tree Traversals (Inorder, Preorder, Postorder)", "yt": "#" },
+            { "title": "Lowest Common Ancestor", "yt": "#" },
+            { "title": "Diameter of a Tree", "yt": "#" },
+            { "title": "Binary Search Tree (BST)", "yt": "#" }
+        ]
+        },
+        "Heaps and Priority Queue": {
+        "topics": [
+            { "title": "Min/Max Heap Basics", "yt": "#" },
+            { "title": "Heapify Operation", "yt": "#" },
+            { "title": "Priority Queue in STL", "yt": "#" },
+            { "title": "Kth Largest/Smallest Element", "yt": "#" },
+            { "title": "Heap Sort", "yt": "#" }
+        ]
+        },
+        "Hashing": {
+        "topics": [
+            { "title": "Hash Map and Hash Set", "yt": "#" },
+            { "title": "Frequency Counting", "yt": "#" },
+            { "title": "Anagram Grouping", "yt": "#" },
+            { "title": "Prefix Hashing", "yt": "#" },
+            { "title": "Collision Resolution Techniques", "yt": "#" }
+        ]
+        },
+        "Graphs": {
+        "topics": [
+            { "title": "Graph Representations (Adj List/Matrix)", "yt": "#" },
+            { "title": "DFS and BFS", "yt": "#" },
+            { "title": "Connected Components", "yt": "#" },
+            { "title": "Topological Sort", "yt": "#" },
+            { "title": "Dijkstra’s Algorithm", "yt": "#" },
+            { "title": "Bellman-Ford", "yt": "#" },
+            { "title": "Floyd-Warshall", "yt": "#" },
+            { "title": "Kruskal’s and Prim’s Algorithm", "yt": "#" }
+        ]
+        },
+        "Recursion and Backtracking": {
+        "topics": [
+            { "title": "Recursion Basics", "yt": "#" },
+            { "title": "Subset and Subsequence", "yt": "#" },
+            { "title": "N-Queens Problem", "yt": "#" },
+            { "title": "Sudoku Solver", "yt": "#" },
+            { "title": "Rat in a Maze", "yt": "#" }
+        ]
+        },
+        "Dynamic Programming": {
+        "topics": [
+            { "title": "0/1 Knapsack", "yt": "#" },
+            { "title": "Longest Common Subsequence", "yt": "#" },
+            { "title": "Longest Increasing Subsequence", "yt": "#" },
+            { "title": "Matrix Chain Multiplication", "yt": "#" },
+            { "title": "DP on Trees", "yt": "#" },
+            { "title": "Memoization vs Tabulation", "yt": "#" }
+        ]
+        },
+        "Greedy Algorithms": {
+        "topics": [
+            { "title": "Activity Selection", "yt": "#" },
+            { "title": "Fractional Knapsack", "yt": "#" },
+            { "title": "Job Scheduling", "yt": "#" },
+            { "title": "Huffman Encoding", "yt": "#" },
+            { "title": "Greedy for Graphs (MST)", "yt": "#" }
+        ]
+        },
+        "Bit Manipulation": {
+        "topics": [
+            { "title": "Basics of Bits", "yt": "#" },
+            { "title": "XOR Tricks", "yt": "#" },
+            { "title": "Power of Two", "yt": "#" },
+            { "title": "Bit Masking", "yt": "#" },
+            { "title": "Set/Unset Bits", "yt": "#" }
+        ]
+        },
+        "Trie and String Algorithms": {
+        "topics": [
+            { "title": "Trie Insert/Search", "yt": "#" },
+            { "title": "Auto-complete", "yt": "#" },
+            { "title": "Longest Prefix Matching", "yt": "#" },
+            { "title": "Aho-Corasick Algorithm", "yt": "#" }
+        ]
+        },
+        "Segment Tree and Binary Indexed Tree": {
+        "topics": [
+            { "title": "Segment Tree Build and Query", "yt": "#" },
+            { "title": "Lazy Propagation", "yt": "#" },
+            { "title": "Binary Indexed Tree (Fenwick Tree)", "yt": "#" }
+        ]
+        },
+        "Disjoint Set Union (DSU)": {
+        "topics": [
+            { "title": "Union by Rank", "yt": "#" },
+            { "title": "Path Compression", "yt": "#" },
+            { "title": "Cycle Detection in Graph using DSU", "yt": "#" }
+        ]
+        }
+    }
+}
+  

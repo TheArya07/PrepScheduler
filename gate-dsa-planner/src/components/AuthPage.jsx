@@ -15,6 +15,7 @@ export default function AuthPage() {
     try {
       const { user } = await signInWithPopup(auth, provider)
       const { displayName, email, photoURL, uid } = user
+      
       const start_date = new Date().toISOString().split('T')[0]
 
       await set(ref(db, `users/${uid}`), {

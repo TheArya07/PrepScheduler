@@ -15,6 +15,10 @@ export default function ProfilePage({ syllabus }) {
     yt_link: '',
   })
 
+
+
+  
+
   useEffect(() => {
     const unsub = onValue(userRef, snap => {
       set_profile(snap.val())

@@ -6,11 +6,13 @@
             { "title": "Propositional and first order logic", "yt": "#" },
             { "title": "Sets, relations, functions", "yt": "#" },
             { "title": "Partial orders and lattices", "yt": "#" },
-            { "title": "Monoids", "yt": "#" },
-            { "title": "Groups", "yt": "#" },
+            { "title": "Monoids", "yt": "*" },
+            { "title": "Groups", "yt": "*" },
             { "title": "Graphs: connectivity, matching, colouring", "yt": "#" },
             { "title": "Combinatorics: counting, recurrence relations, generating functions", "yt": "#" }
             ]
+
+
         },
         "Linear Algebra": {
             "topics": [

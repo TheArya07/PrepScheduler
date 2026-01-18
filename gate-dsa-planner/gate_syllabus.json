@@ -17,6 +17,8 @@
         "Linear Algebra": {
             "topics": [
             { "title": "Matrices", "yt": "#" },
+
+            
             { "title": "Determinants", "yt": "#" },
             { "title": "System of linear equations", "yt": "#" },
             { "title": "Eigenvalues and eigenvectors", "yt": "#" },
